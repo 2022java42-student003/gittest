@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Hello JSP</h1>
-	<p>testtesttest</p>
+	<p>testtest</p>
 </body>
 </html>
